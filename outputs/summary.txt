@@ -1,0 +1,4 @@
+Return difference test (Label=1 vs Label=0)
+n0=923, mean0=-0.008437
+n1=1065, mean1=0.007860
+p-value=3.79474e-228
